@@ -44,7 +44,8 @@ void print_array(const int *array, size_t size)
     }
     printf("\n");
 }
-
+```
+```
 #include <stdio.h>
 #include "sort.h"
 
